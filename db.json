@@ -10,7 +10,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Ceramic",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Beige", "Minimalist", "Indoor"]
     },
     {
         "id": "tile_002",
@@ -22,7 +23,8 @@
         "currency": "USD",
         "dimensions": "50x50 cm",
         "material": "Porcelain",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Black", "Matte", "Flooring"]
     },
     {
         "id": "tile_003",
@@ -34,7 +36,8 @@
         "currency": "USD",
         "dimensions": "80x80 cm",
         "material": "Marble",
-        "inStock": false
+        "inStock": false,
+        "tags": ["Blue", "Glossy", "Luxury"]
     },
     {
         "id": "tile_004",
@@ -46,7 +49,8 @@
         "currency": "USD",
         "dimensions": "120x20 cm",
         "material": "Porcelain",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Brown", "Wood-Look", "Warm"]
     },
     {
         "id": "tile_005",
@@ -58,7 +62,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Granite",
-        "inStock": true
+        "inStock": true,
+        "tags": ["White", "Polished", "Durable"]
     },
     {
         "id": "tile_006",
@@ -70,7 +75,8 @@
         "currency": "USD",
         "dimensions": "40x40 cm",
         "material": "Ceramic",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Beige", "Outdoor", "Weather-Resistant"]
     },
     {
         "id": "tile_007",
@@ -82,7 +88,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Stone",
-        "inStock": false
+        "inStock": false,
+        "tags": ["Black", "Stone", "Textured"]
     },
     {
         "id": "tile_008",
@@ -94,7 +101,8 @@
         "currency": "USD",
         "dimensions": "30x30 cm",
         "material": "Glass",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Coffee", "Mosaic", "Decorative"]
     },
     {
         "id": "tile_009",
@@ -106,7 +114,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Concrete",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Brown", "Industrial", "Modern"]
     },
     {
         "id": "tile_010",
@@ -118,8 +127,8 @@
         "currency": "USD",
         "dimensions": "45x45 cm",
         "material": "Terracotta",
-        "inStock": true
-        
+        "inStock": true,
+        "tags": ["Green", "Earthy", "Classic"]
     },
     {
         "id": "tile_011",
@@ -131,7 +140,8 @@
         "currency": "USD",
         "dimensions": "80x80 cm",
         "material": "Marble",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Grey", "Polished", "Luxury"]
     },
     {
         "id": "tile_012",
@@ -143,7 +153,8 @@
         "currency": "USD",
         "dimensions": "30x60 cm",
         "material": "Ceramic",
-        "inStock": true
+        "inStock": true,
+        "tags": ["Grey", "Patterned", "Wall"]
     },
     {
         "id": "tile_013",
@@ -155,7 +166,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Slate",
-        "inStock": false
+        "inStock": false,
+        "tags": ["Mixed", "Slate", "Durable"]
     },
     {
         "id": "tile_014",
@@ -167,7 +179,8 @@
         "currency": "USD",
         "dimensions": "60x60 cm",
         "material": "Ceramic",
-        "inStock": true
+        "inStock": true,
+        "tags": ["White", "Glossy", "Modern"]
     }
     ]
 }
